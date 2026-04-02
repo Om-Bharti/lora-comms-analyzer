@@ -18,7 +18,7 @@ A real-time **LoRa Digital Communications Analyzer** built with ESP8266 NodeMCU,
 ![SNR](docs/AVG_SNR_PER_SF.png)
 
 ### 🌫️ Noise Floor Estimate
-![Noise](docs/NOISE_FLOOR_ESTIMATE.png)
+![Noise](docs/NOISE_FLOOR _ESTIMATE.png)
 
 ### 📦 Packet Inspector
 ![Inspector](docs/PACKET_INSPECTOR.png)
