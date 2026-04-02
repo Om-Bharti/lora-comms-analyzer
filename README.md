@@ -11,9 +11,20 @@ A real-time **LoRa Digital Communications Analyzer** built with ESP8266 NodeMCU,
 
 ## 📸 Dashboard Preview
 
-> Live charts showing RSSI/SNR over time, BER vs Spreading Factor, noise floor estimate, link budget calculator, and packet inspector.
+### 📊 RSSI Over Time
+![RSSI](docs/RSSI_OVER_TIME.png)
 
----
+### 📡 Average SNR per SF
+![SNR](docs/AVG_SNR_PER_SF.png)
+
+### 🌫️ Noise Floor Estimate
+![Noise](docs/NOISE_FLOOR_ESTIMATE.png)
+
+### 📦 Packet Inspector
+![Inspector](docs/PACKET_INSPECTOR.png)
+
+### 📊 Packets per SF
+![Packets](docs/PACKET_REC_PER.png)
 
 ## 🎯 What This Project Demonstrates
 
